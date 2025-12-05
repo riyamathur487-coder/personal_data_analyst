@@ -10,7 +10,7 @@ from llm_client import ask_llm
 
 
 st.set_page_config(page_title="Personal AI Data Analyst", layout="wide")
-st.title("🧠 Personal AI Data Analyst — THE VISHLESHAK")
+st.title("🧠 Analytica AI — Personal Data Assistant")
 
 st.sidebar.header("Settings")
 
@@ -40,7 +40,7 @@ if use_llm and not groq_key_present:
 
 st.sidebar.markdown("---")
 st.sidebar.markdown(
-    "Developed by MRITYUNJAY TIWARI. "
+    "Developed by PRABHAKAR SINGH. "
 )
 
 # --- File upload ---
