@@ -64,3 +64,7 @@ Make sure you have Python 3.8+ installed. You will also need a **Groq API Key**.
 ---
 
 > Feel free to fork this project, open issues, or submit pull requests. Let's make data analysis accessible to everyone! 🚀
+
+
+## Deployed Link
+[Live link](https://personaldataanalyst-r3kccmhq7cchajpuhfhspo.streamlit.app/)
