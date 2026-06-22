@@ -40,7 +40,7 @@ if use_llm and not groq_key_present:
 
 st.sidebar.markdown("---")
 st.sidebar.markdown(
-    "Developed by PRABHAKAR SINGH. "
+    "Developed by RIYA MATHUR. "
 )
 
 # --- File upload ---
